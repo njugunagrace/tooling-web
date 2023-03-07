@@ -1,0 +1,59 @@
+body{
+    background-color: blanchedalmond;
+    font-size: large;
+    margin: 3%;
+    font-family: 'Dosis', sans-serif;
+font-family: 'Golos Text', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+#text{
+    text-align: center;
+}
+#text1{
+    text-align: center;
+    color: rgb(241, 229, 203);
+}
+.container{
+    background-color: rgb(240, 163, 137);
+    /* background-image: url(/images/background.avif); */
+    padding: 20px 80px 100px 80px;
+    border-radius: 5%;
+}
+#txt{
+    color: rgb(241, 229, 203);
+    
+}
+#clothes{
+    width: 30%;
+    height: 50%;
+    float: right;
+}
+
+#button{
+    background-color: rgb(207, 218, 250); 
+    width: 30%;
+    height: 50%;
+}
+.cont2{
+    gap: 100px;
+}
+#image{
+    width: 30%;
+    height: 30%;
+    border-radius: 10%;
+
+}
+#image2{
+    margin-left: 160px;
+    width:54% ;
+    height: 54%;
+    border-radius: 10%;
+}
+.cont3{
+    
+    background-color: rgb(175, 190, 231);
+    padding: 50px;
+    margin-top: 12%;
+
+}
